@@ -1,0 +1,10 @@
+.env
+.openclaude-profile.json
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite3
+node_modules/
+frontend/dist/
+backend/.pytest_cache/
+frontend/.vite/
